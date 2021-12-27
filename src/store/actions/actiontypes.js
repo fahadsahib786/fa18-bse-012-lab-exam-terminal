@@ -1,0 +1,6 @@
+export const  TOGGLE_AUTHPAGE = 'TOGGLE_AUTH_PAGE';
+export const AUTH_START = 'AUTH_START';
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+
+export const TOGGLE_FUNCTIONPAGE = 'TOGGLE_FUNCTIONPAGE';
+export const UPDATE_START = 'UPDATE_START';
